@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTE2NjkwNzciLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6ImM1ODBhMDNhZDY1ODA0NGFhNDk1MWIyYWU1ZjIyYzlhMTBhNzllZTkzYzQxOGNjMTI1MTk4ZGUwZGZjOGViZTFkZWU4NThlNGNhYzNjNTkyYzdhYTRhMDg2MGE3MzVhOThmN2E0NjU4MmI2NzA2MzUyYzM3M2Y5NmMyZTE3MWE2IiwidCI6MTYxMzk3NTI3Miwic3RmcCI6IjMzMDFkMTFiMTk1MGRmNzZkMTUwMTY0ZmNhYzFjNjhiIiwic3RpcCI6IjIwMS4xODQuNTEuMiJ9.LsJxjsnUi2BXnJewnHityCmdXUEmtf7l9DoUrfVIeTA/Nusantara_v2.5.1-11-cereus-26012021-OFFICIAL-0636.zip
-  ROM_NAME: Nusantara_v2.5.1
+  ROM_URL: https://bigota.d.miui.com/21.1.18/miui_LAVENDER_21.1.18_9b2e3e3a5a_10.0.zip
+  ROM_NAME: MIUILAVENDER
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Nasuntara_v2.5.1
+  ZIP_NAME: MIUILAVENDER
 jobs:
   build:
     runs-on: ubuntu-latest
