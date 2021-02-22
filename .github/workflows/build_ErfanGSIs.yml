@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hell.godseye.workers.dev/MMX_Whyred_21.1.6_whyred_Shubh_21.1.6_10.zip
-  ROM_NAME: MIUI
+  ROM_URL: https:https://enes.ninja/samsungfw/SM-A107F/INS/A107FXXU6BTF1
+  ROM_NAME: ONE UI 3.0 RAVEN23
   TZ: Asia/Kolkata
   MIR: wet
   ZIP_NAME: mıuımx12.5
