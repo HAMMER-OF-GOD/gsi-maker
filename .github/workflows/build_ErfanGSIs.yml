@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://netactuate.dl.sourceforge.net/project/evolution-x/lavender/EvolutionX_5.4_lavender-11-20210202-1005-OFFICIAL.zip
-  ROM_NAME: EvolutionX_5.4_lavender-11
+  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTE2NjkwNzciLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6ImM1ODBhMDNhZDY1ODA0NGFhNDk1MWIyYWU1ZjIyYzlhMTBhNzllZTkzYzQxOGNjMTI1MTk4ZGUwZGZjOGViZTFkZWU4NThlNGNhYzNjNTkyYzdhYTRhMDg2MGE3MzVhOThmN2E0NjU4MmI2NzA2MzUyYzM3M2Y5NmMyZTE3MWE2IiwidCI6MTYxMzk3NTI3Miwic3RmcCI6IjMzMDFkMTFiMTk1MGRmNzZkMTUwMTY0ZmNhYzFjNjhiIiwic3RpcCI6IjIwMS4xODQuNTEuMiJ9.LsJxjsnUi2BXnJewnHityCmdXUEmtf7l9DoUrfVIeTA/Nusantara_v2.5.1-11-cereus-26012021-OFFICIAL-0636.zip
+  ROM_NAME: Nusantara_v2.5.1
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: EvolutionX_5.4_lavender-11
+  ZIP_NAME:nasuntara
 jobs:
   build:
     runs-on: ubuntu-latest
