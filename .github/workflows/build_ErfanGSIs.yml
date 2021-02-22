@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://sourceforge.net/projects/zenx-os/files/ginkgo/ZenX-OS-v1.10-Official-ginkgo-20201008.zip
-  ROM_NAME: ZenX-OS-v1.10
+  ROM_URL: https://netactuate.dl.sourceforge.net/project/evolution-x/lavender/EvolutionX_5.4_lavender-11-20210202-1005-OFFICIAL.zip
+  ROM_NAME: EvolutionX_5.4_lavender-11
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: ZenX-OS-v1.10
+  ZIP_NAME: EvolutionX_5.4_lavender-11
 jobs:
   build:
     runs-on: ubuntu-latest
