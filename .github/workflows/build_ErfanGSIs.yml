@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https:https://enes.ninja/samsungfw/SM-A107F/INS/A107FXXU6BTF1
-  ROM_NAME: ONE UI 3.0 RAVEN23
+  ROM_URL: https://sourceforge.net/projects/zenx-os/files/ginkgo/ZenX-OS-v1.10-Official-ginkgo-20201008.zip
+  ROM_NAME: ZenX-OS-v1.10
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: mıuımx12.5
+  ZIP_NAME: ZenX-OS-v1.10
 jobs:
   build:
     runs-on: ubuntu-latest
