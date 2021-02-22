@@ -9,7 +9,7 @@ env:
   ROM_NAME: Nusantara_v2.5.1
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME:nasuntara
+  ZIP_NAME: Nasuntara
 jobs:
   build:
     runs-on: ubuntu-latest
