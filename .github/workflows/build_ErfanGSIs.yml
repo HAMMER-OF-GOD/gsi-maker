@@ -6,10 +6,10 @@ on:
     
 env:
   ROM_URL: https://bigota.d.miui.com/21.1.18/miui_LAVENDER_21.1.18_9b2e3e3a5a_10.0.zip
-  ROM_NAME: MIUILAVENDER
+  ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: MIUILAVENDER
+  ZIP_NAME: MIUI
 jobs:
   build:
     runs-on: ubuntu-latest
